@@ -2,7 +2,7 @@
 
 A modern, full-stack real-time chat application built with React, Node.js, Express, MongoDB, and Socket.IO. Meet-Up lets users connect, chat, and share images instantly with a clean UI and seamless experience.
 
-. Live demo: https://meet-up-alpha.vercel.app
+- #Live demo: https://meet-up-alpha.vercel.app
 
 ## Features
 
